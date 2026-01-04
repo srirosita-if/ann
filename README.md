@@ -36,5 +36,5 @@ Dataset yang digunakan adalah data logika XOR:
 ## ⚙️ Tools & Teknologi
 - Python 3.12
 - NumPy
-- Python IDLE / Visual Studio Code
+- Python IDLE
 
